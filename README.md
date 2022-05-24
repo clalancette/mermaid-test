@@ -11,7 +11,7 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ```
-```html
+
 <body>
   <div class="mermaid">
     gantt
@@ -41,4 +41,3 @@ gantt
     mermaid.initialize(config);
   </script>
 </body>
-```
