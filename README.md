@@ -11,7 +11,7 @@ gantt
     Task in sec      :2022-01-12  , 12d
     another task      : 24d
     
-    click a1 href "https://www.google.com.com"
+    click a1 href "https://www.google.com"
 ```
 
 <body>
