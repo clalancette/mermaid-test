@@ -1,7 +1,7 @@
 
 ```mermaid
 gantt
-    securityLevel='loose'
+    securityLevel loose
     title ROS 2 Release process
     dateFormat  YYYY-MM-DD
     section Before previous release
