@@ -8,8 +8,10 @@ gantt
     Discourse naming thread     :a2, after a1  , 21d
     Collate names from Discourse thread :after a2, 1d
     section Another
-    Task in sec      :2014-01-12  , 12d
+    Task in sec      :2012-01-12  , 12d
     another task      : 24d
+    
+    click a1 href "https://github.com"
 ```
 
 <body>
